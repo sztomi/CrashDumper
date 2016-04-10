@@ -1,0 +1,10 @@
+build
+ipch
+obj
+*.suo
+build
+ipch
+obj
+*.suo
+*.sdf
+*.user
